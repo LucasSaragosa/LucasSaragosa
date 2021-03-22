@@ -1,4 +1,11 @@
-### Languages
+uh hi<br/>
+I code for fun<br/>
+Game Developer, In C and C++. OpenGL, DirectX.<br/>
+C# and Java wrap some of my project libraries.<br/>
+Telltale Games modder<br/>
+
+
+### I speak:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
