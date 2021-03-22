@@ -9,3 +9,7 @@
 ### Social
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas.ss.05/)
+
+### Sponsors
+
+[BenNeighbour](https://www.github.com/BenNeighbour)
