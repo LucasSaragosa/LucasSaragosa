@@ -1,4 +1,4 @@
-advanced c/c++ dev
+advanced c/c++ dev (blowfish bfp ks0123...)
 
 ### I speak:
 
