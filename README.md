@@ -1,4 +1,4 @@
-advanced c/c++ dev (blowfish bfp ks0123...)
+Low-level C/C++ programmer
 
 ### I speak:
 
