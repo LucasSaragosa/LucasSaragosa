@@ -1,7 +1,7 @@
 if you're looking for my projects, welcome. author of multiple telltale tools and more. 
 I specialise in c/c++ optimisation and decompilation (IDA), cracking, backend, games, parallelisation, low level POSIX/Windows, 
 scripting language development, binary file format analysis, SIMD/ARM intrinsics, TCP/UDP, graphics APIs including D3D12/GL/Metal, and sadly a few more.
-[!donate here!](https://www.gofundme.com/f/lucas-saragosa) if you want to support my tools. and buy me a ![nandos](https://www.nandos.co.uk/).
+!donate here!](https://www.gofundme.com/f/lucas-saragosa) if you want to support my tools. and to buy me a [nandos](https://www.nandos.co.uk/).
 
 ### had to deal with:
 
