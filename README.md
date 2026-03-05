@@ -1,5 +1,4 @@
-I specialise in c/c++ optimisation and decompilation (IDA), application cracking, server backends, games, parallelisation, low level POSIX/Windows, <br>
-scripting language development, binary file format analysis, SIMD/ARM intrinsics, TCP/UDP, graphics APIs including D3D12/GL/Metal, PostgreSQL, ReactJS frontend, and more.<br><br><br>
+I specialise in c/c++ optimisation and decompilation (IDA), application cracking, server backends, games, parallelisation, POSIX/Windows APIs, scripting language development, binary file format analysis, memory management, SIMD/ARM intrinsics, TCP/UDP, graphics APIs D3D12/GL/Metal, PostgreSQL, ReactJS frontend, and more.<br><br><br>
 
 ### had to deal with:
 
